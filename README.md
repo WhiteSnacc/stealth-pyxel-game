@@ -2,7 +2,7 @@
 Saat ini game hanya bisa di mainkan di PC/Laptop, belum bisa dimainkan di HP.
 
 Cara main: 
-1. Buka file "pyxelgame.html" di browser
+1. Klik link berikut https://whitesnacc.itch.io/operation-demon-core
 2. Selamat bermain!
 
 Tombol-tombol di bagian Tutorial:
